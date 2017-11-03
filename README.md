@@ -1,2 +1,4 @@
 # testcode
-Test code for Java/Python/C/C++
+Test code for python
+ 
+ Don't follow me, I suck.
